@@ -1,10 +1,10 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 gem 'mime-types', '~> 2.0'
 gem 'rake'
 gem 'cucumber'
 gem 'capybara'
-gem 'selenium-webdriver'
+gem 'selenium-webdriver','4.7.0'
 gem 'rspec'
 gem 'browserstack-local'
 gem 'parallel_tests'

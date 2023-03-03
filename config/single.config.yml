@@ -8,7 +8,7 @@ common_caps:
     buildName: browserstack-build-1
     osVersion: '10'
     sessionName: BStack single capybara
-    projectName: BrowserStack Samples
+    projectName: Capybara
     debug: true
     useW3C: true
 
